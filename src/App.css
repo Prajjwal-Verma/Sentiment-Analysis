@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+
+.mainHeading{
+  flex-direction: column;
+}
+
+.list{
+  flex-direction: column;
+}
+
+/* .inputBtn input, button{
+  border-radius: 20px;
+} */
